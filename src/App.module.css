@@ -1,0 +1,10 @@
+.wrap {
+  box-sizing: border-box;
+  padding: 20px;
+  height: 100vh;
+}
+
+.container {
+  display: flex;
+  height: 100%;
+}
